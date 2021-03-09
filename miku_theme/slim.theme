@@ -1,5 +1,5 @@
-# bluer theme for SLIM
-# by aditya shakya <adi1090x@gmail.com>
+# Miku Theme for SLIM, based of Bluer theme for SLIM
+# by Caleb Github : CalebThePerson
 # using artwork from some free html+css login templates on the internet
 
 # Messages (ie: shutdown)
@@ -30,7 +30,7 @@ input_name_y            254
 input_pass_x            165
 input_pass_y            316
 input_font              Sans:size=13:bold:dpi=75
-input_color           #0878e0
+input_color           #Miku Theme
 
 username_msg            
 password_msg            
